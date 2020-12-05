@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee8a0f85-ddc4-4ca8-882d-a44b7b850274" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1lDktr3nxR2eB6tclwPfFQrkpaF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" application-parameters="3182 localhost 8070" path-to-node="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" path-to-js-file="$PROJECT_DIR$/src/app.js" working-dir="$PROJECT_DIR$/..">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" application-parameters="3182 localhost 8070" path-to-node="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" nameIsGenerated="true" path-to-js-file="webserver/src/app.js" working-dir="$PROJECT_DIR$/..">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee8a0f85-ddc4-4ca8-882d-a44b7b850274" name="Default Changelist" comment="" />
+      <created>1607139267044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607139267044</updated>
+      <workItem from="1607139270348" duration="290000" />
+      <workItem from="1607139594513" duration="21000" />
+      <workItem from="1607142030092" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607142487587">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="734" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1607142487587" />
+    <state x="962" y="387" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1607142520889">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="962" y="387" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1040@0.0.2560.1040" timestamp="1607142520889" />
+    <state x="1010" y="214" key="FileChooserDialogImpl" timestamp="1607142205905">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1010" y="214" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1607142205905" />
+    <state width="2490" height="34" key="GridCell.Tab.0.bottom" timestamp="1607142669591">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2490" height="34" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1607142669591" />
+    <state width="2490" height="34" key="GridCell.Tab.0.center" timestamp="1607142669590">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2490" height="34" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1607142669590" />
+    <state width="2490" height="34" key="GridCell.Tab.0.left" timestamp="1607142669590">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2490" height="34" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1607142669590" />
+    <state width="2490" height="34" key="GridCell.Tab.0.right" timestamp="1607142669590">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2490" height="34" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1607142669590" />
+    <state x="681" y="80" key="SettingsEditor" timestamp="1607142472813">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="681" y="80" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1607142472813" />
+    <state x="897" y="297" key="com.intellij.ide.util.TipDialog" timestamp="1607139593864">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="897" y="297" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1607139593864" />
+  </component>
+</project>

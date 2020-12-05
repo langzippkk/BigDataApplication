@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5e4bb03-f7e4-48f6-809f-dd3a26aaa89a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1lA0qIpoOOr2DrCYZvqlRkJJsLb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webserver" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Scala Compiler" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5e4bb03-f7e4-48f6-809f-dd3a26aaa89a" name="Default Changelist" comment="" />
+      <created>1607024777445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607024777445</updated>
+      <workItem from="1607024782542" duration="24240000" />
+      <workItem from="1607056849715" duration="1121000" />
+      <workItem from="1607098269722" duration="1035000" />
+      <workItem from="1607114775988" duration="65000" />
+      <workItem from="1607135993498" duration="630000" />
+      <workItem from="1607136715683" duration="794000" />
+      <workItem from="1607139213804" duration="204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1135" y="76" key="#Deployment" timestamp="1607136549247">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1135" y="76" key="#Deployment/0.0.2560.1040@0.0.2560.1040" timestamp="1607136549247" />
+    <state x="897" y="65" key="#Project_Structure" timestamp="1607041104134">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="897" y="65" key="#Project_Structure/0.0.2560.1040@0.0.2560.1040" timestamp="1607041104134" />
+    <state x="1490" y="274" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1607041050402">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1490" y="274" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1607041050402" />
+    <state x="981" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607052971927">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="981" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1607052971927" />
+    <state x="1392" y="334" width="503" height="352" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607026018367">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1392" y="334" width="503" height="352" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1040@0.0.2560.1040" timestamp="1607026018367" />
+    <state x="1212" y="338" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1607041120587">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1212" y="338" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2560.1040@0.0.2560.1040" timestamp="1607041120587" />
+    <state x="1010" y="214" key="FileChooserDialogImpl" timestamp="1607139415184">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1010" y="214" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1607139415184" />
+    <state width="2507" height="292" key="GridCell.Tab.0.bottom" timestamp="1607137511244">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2507" height="292" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1607137511244" />
+    <state width="2507" height="292" key="GridCell.Tab.0.center" timestamp="1607137511244">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2507" height="292" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1607137511244" />
+    <state width="2507" height="292" key="GridCell.Tab.0.left" timestamp="1607137511244">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2507" height="292" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1607137511244" />
+    <state width="2507" height="292" key="GridCell.Tab.0.right" timestamp="1607137511244">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2507" height="292" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1607137511244" />
+    <state x="873" y="84" key="SettingsEditor" timestamp="1607053456771">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="873" y="84" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1607053456771" />
+    <state x="959" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1607139213824">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="959" y="291" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1607139213824" />
+    <state x="121" y="53" width="1120" height="934" key="dock-window-1" timestamp="1607044596468">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="121" y="53" width="1120" height="934" key="dock-window-1/0.0.2560.1040@0.0.2560.1040" timestamp="1607044596468" />
+    <state x="738" y="151" key="new project wizard" timestamp="1607098374504">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="738" y="151" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1607098374504" />
+  </component>
+</project>

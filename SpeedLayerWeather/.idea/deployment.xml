@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Deploy2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="nian/1_WeatherSpeedLayer" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Single Webserver">
+        <serverdata>
+          <mappings>
+            <mapping deploy="dev/nian/project" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

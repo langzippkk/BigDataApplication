@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head>
+    <title>Submit Weather</title>
+    <link type="text/css" rel="stylesheet" href="/elegant-aero.css" />
+</head>
+<!-- Thanks to Mario C. E. Freese <mcefreese@gmail.com> for permission to use background image -->
+<body style='background-image:URL("covid.png");background-repeat:no-repeat;background-position:center bottom;-webkit-background-size:80%;-moz-background-size:80%;-o-background-size:100%;background-size: 40%;'>
+<p style="margin-bottom:5px"/>
+<h2 class="elegant-aero" style="margin-left:30%;text-align:center;display:inline-block;color:#5E5E5E;background:#FFFFFF">&nbsp;Submit weather report&nbsp;</h2>
+<form action="/weather.html" style="background:#FFFFFF;width:60%;margin:auto"  method="get" class="elegant-aero">
+    <label>
+        <span>Date:</span> <input type="Date" name="Date"/>
+    </label>
+    <br>
+    <label style="font-weight:bold;color:#5E5E5E">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;Temperature <input type="integer" name="Temperature" size="5"/>
+        Humidity <input type="integer" name="Humidity" size="5"/>
+        Rain <input type="integer" name="Rain" size="5"/>
+    </label>
+    <br>
+    <label>
+        <span>&nbsp;</span><input type="submit" value="Submit">
+    </label>
+</form>
+<iframe frameBorder="0" name="results_iframe" style="width:100%"/>
+</body>
+</html>

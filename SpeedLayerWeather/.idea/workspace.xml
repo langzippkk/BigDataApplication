@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d89d6377-46da-429b-b99c-c4961daf30ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1l7NZTQ4LgxIfgYyEKDQK1lfGNx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IngestCovid" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d89d6377-46da-429b-b99c-c4961daf30ae" name="Default Changelist" comment="" />
+      <created>1606944224586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606944224586</updated>
+      <workItem from="1606944228104" duration="11263000" />
+      <workItem from="1607055065868" duration="1201000" />
+      <workItem from="1607057540270" duration="749000" />
+      <workItem from="1607134865534" duration="1769000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="772" y="91" key="#Deployment" timestamp="1607135148833">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="772" y="91" key="#Deployment/0.0.2560.1040@0.0.2560.1040" timestamp="1607135148833" />
+    <state x="1441" y="204" key="FileChooserDialogImpl" timestamp="1607136712023">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1441" y="204" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1607136712023" />
+    <state width="2507" height="426" key="GridCell.Tab.0.bottom" timestamp="1607136712992">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2507" height="426" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1607136712992" />
+    <state width="2507" height="426" key="GridCell.Tab.0.center" timestamp="1607136712992">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2507" height="426" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1607136712992" />
+    <state width="2507" height="426" key="GridCell.Tab.0.left" timestamp="1607136712991">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2507" height="426" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1607136712991" />
+    <state width="2507" height="426" key="GridCell.Tab.0.right" timestamp="1607136712992">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2507" height="426" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1607136712992" />
+    <state x="1139" y="184" key="ftp.server.browser" timestamp="1606950869148">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1139" y="184" key="ftp.server.browser/0.0.2560.1040@0.0.2560.1040" timestamp="1606950869148" />
+    <state x="912" y="149" key="new project wizard" timestamp="1606952195139">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="912" y="149" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1606952195139" />
+  </component>
+</project>
