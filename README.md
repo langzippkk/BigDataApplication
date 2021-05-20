@@ -1,5 +1,3 @@
-Final Project for MPCS 53014 taught by Prof. Michael Spertus
-
 
 About this APP
 
